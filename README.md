@@ -5,18 +5,18 @@ YourTube is a Youtube clone I'm working on using Vite-React-ts (front-end), Tail
 The Goal of this project is to create a full stack youtube clone while learning Typescript and TailwindCSS.
 
 ## 
-  1) User
-    a) Sign In | Sign Up
-    b) Edit User
-    c) Delete User
-    d) Subscribe to user channel 
-    e) Sessions
-  2) Video
-    a) Upload Video
-    b) Search Videos
-    c) Edit Video Content
-    d) Delete Video
-    e) Create playlists
-    f) Recommend Video
-    g) Save Video
-    h) Custom Video player
+1) User
+    * [ ] Sign In | Sign Up
+    * [ ] Edit User
+    * [ ] Delete User
+    * [ ] Subscribe to user channel 
+    * [ ] Sessions
+2) Video
+    * [ ] Upload Video
+    * [ ] Search Videos
+    * [ ] Edit Video Content
+    * [ ] Delete Video
+    * [ ] Create playlists
+    * [ ] Recommend Video
+    * [ ] Save Video
+    * [ ] Custom Video player
