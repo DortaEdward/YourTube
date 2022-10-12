@@ -1,4 +1,4 @@
-# YourTube (A Youtube Clone created with the MERN Stack using Typescript)
+# YourTube (A Youtube Clone created with the MERN Stack)
 YourTube is a Youtube clone I'm working on using Vite-React-ts (front-end), TailwindCss (Styling) and Express-Ts (Backend).
 
 ## Goal
